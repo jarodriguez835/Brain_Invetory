@@ -1,0 +1,1 @@
+confirm("Se ha enviado un correo a ")

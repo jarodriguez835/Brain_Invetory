@@ -1,0 +1,52 @@
+body{
+    background-color: #37e75d;
+    background-image: url(IMG/tiendaF.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: block;
+    margin: 100px, auto;
+}
+
+.contenido{
+    margin:auto;
+    text-align: center;
+    width: 60%;   
+}
+form{
+    width:300px;
+    padding:16px;
+    border-radius:10px;
+    margin:auto;
+    background-color:#ccc;
+    font-size: 20px;
+    text-align:center;
+    justify-content: center;
+} 
+.final{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+li{
+    font-size: 21px;
+    text-decoration: none;
+    float: left;
+    padding: 28px;
+    background-color: #b1a3d8;
+    color: #fff;
+    list-style:none
+}
+
+.alerta{
+    font-size: 21px;
+    margin: auto;
+    width: 90%;
+    text-align: center;
+    position: absolute;
+   
+}
